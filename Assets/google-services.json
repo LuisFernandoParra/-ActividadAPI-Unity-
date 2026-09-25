@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949995355467",
+    "project_id": "actividadfirebaseunity",
+    "storage_bucket": "actividadfirebaseunity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949995355467:android:7a91348786eeab34bd3cce",
+        "android_client_info": {
+          "package_name": "com.LuisFernandoParra.ActividadFirebaseUnity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIjU9vfOli1q2ece6Q-O1F6qMvUFQJak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
